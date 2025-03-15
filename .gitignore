@@ -1,0 +1,7 @@
+.env
+*.png
+*.jpg
+*original.ipynb
+*.ipynb_checkpoints
+keys/
+service*.json
